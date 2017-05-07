@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRABHAKAR\.android\build-cache\8ddedd1bf80a402c870edc497156181381ec4b9b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\PRABHAKAR\Desktop\Android-CardView-RecyclerView-master\Android-CardView-RecyclerView-master\CardView-RecyclerView-Code\app\build\intermediates\pre-dexed\debug\classes_a9f0343f907053473b730f09fb15b379bb839b05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRABHAKAR\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.1\b9d63507329a7178e026fc334f87587ee5070ac5\gson-2.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="C:\Users\PRABHAKAR\Desktop\Android-CardView-RecyclerView-master\Android-CardView-RecyclerView-master\CardView-RecyclerView-Code\app\build\intermediates\pre-dexed\debug\gson-2.6.1_ee866467b893371f893b55c6ac42a64792c49376.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRABHAKAR\.android\build-cache\6a38a46d7fa2a21d666ad3ee27364d3145ddeb93\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="C:\Users\PRABHAKAR\Desktop\Android-CardView-RecyclerView-master\Android-CardView-RecyclerView-master\CardView-RecyclerView-Code\app\build\intermediates\pre-dexed\debug\classes_84c6790eeb93c2f789695c6f931a19d324351f32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRABHAKAR\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\PRABHAKAR\Desktop\Android-CardView-RecyclerView-master\Android-CardView-RecyclerView-master\CardView-RecyclerView-Code\app\build\intermediates\pre-dexed\debug\okio-1.8.0_f785e4b4abec049ec490b3106a9481981baf27ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRABHAKAR\.android\build-cache\a87e56b08e87c7b067eb91fe334fdca1b9025e55\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\PRABHAKAR\Desktop\Android-CardView-RecyclerView-master\Android-CardView-RecyclerView-master\CardView-RecyclerView-Code\app\build\intermediates\pre-dexed\debug\classes_9d79c14feab5623ae2d02a5f406140cc6d2ea809.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRABHAKAR\.android\build-cache\da0e8a8ea06086e94a81dd1454a8886b6714348d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\PRABHAKAR\Desktop\Android-CardView-RecyclerView-master\Android-CardView-RecyclerView-master\CardView-RecyclerView-Code\app\build\intermediates\pre-dexed\debug\classes_bfc4d6c90a8975510641459efb8b0c5f2db6739e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRABHAKAR\.android\build-cache\36bcb8e490d86f1520bfedfafeedc8661646e3df\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\PRABHAKAR\Desktop\Android-CardView-RecyclerView-master\Android-CardView-RecyclerView-master\CardView-RecyclerView-Code\app\build\intermediates\pre-dexed\debug\classes_1fb4a1295613558e323f01a42ac7077b813710a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRABHAKAR\.android\build-cache\36bcb8e490d86f1520bfedfafeedc8661646e3df\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\PRABHAKAR\Desktop\Android-CardView-RecyclerView-master\Android-CardView-RecyclerView-master\CardView-RecyclerView-Code\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_852209691f7ca82985a43de2d743edda5e354008.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRABHAKAR\.android\build-cache\cfaf998fdf88c94ae70cbf6dfe7fa9fff36e9df1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\PRABHAKAR\Desktop\Android-CardView-RecyclerView-master\Android-CardView-RecyclerView-master\CardView-RecyclerView-Code\app\build\intermediates\pre-dexed\debug\classes_074359f26d244da429f2d0450985de30bdd77130.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRABHAKAR\.android\build-cache\4ef8c4f43eac8dcdf68d3880304d425870565e81\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\PRABHAKAR\Desktop\Android-CardView-RecyclerView-master\Android-CardView-RecyclerView-master\CardView-RecyclerView-Code\app\build\intermediates\pre-dexed\debug\classes_217a16d4cde826098a9aaf6fdb89d28b1c0dbaaa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRABHAKAR\.android\build-cache\dc11b8190234900c1f77f43b17421557e2c0ef73\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\PRABHAKAR\Desktop\Android-CardView-RecyclerView-master\Android-CardView-RecyclerView-master\CardView-RecyclerView-Code\app\build\intermediates\pre-dexed\debug\classes_17213685a033cbbfbc81404061d1c0512e7bbfe1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRABHAKAR\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\PRABHAKAR\Desktop\Android-CardView-RecyclerView-master\Android-CardView-RecyclerView-master\CardView-RecyclerView-Code\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_1188742b597745e70e6b1f0b6c5d640cff2300ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRABHAKAR\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\Users\PRABHAKAR\Desktop\Android-CardView-RecyclerView-master\Android-CardView-RecyclerView-master\CardView-RecyclerView-Code\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_9a95f0bcc7b84496b3ad8407046296614b9e6d9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRABHAKAR\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\PRABHAKAR\Desktop\Android-CardView-RecyclerView-master\Android-CardView-RecyclerView-master\CardView-RecyclerView-Code\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_6e95b5b00c3984b4d5168c551a1779a1a138dcf9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRABHAKAR\.android\build-cache\da0e8a8ea06086e94a81dd1454a8886b6714348d\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\PRABHAKAR\Desktop\Android-CardView-RecyclerView-master\Android-CardView-RecyclerView-master\CardView-RecyclerView-Code\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_02122bdc26846fb8b73ceff8b3129356122ade03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRABHAKAR\.android\build-cache\a87e56b08e87c7b067eb91fe334fdca1b9025e55\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\PRABHAKAR\Desktop\Android-CardView-RecyclerView-master\Android-CardView-RecyclerView-master\CardView-RecyclerView-Code\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_5a7b72a7f0756a3cfe079e056fe0fdc124747320.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRABHAKAR\.android\build-cache\c74e63e53dccaa88cac62d5c9650fa8ba9f8b272\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\PRABHAKAR\Desktop\Android-CardView-RecyclerView-master\Android-CardView-RecyclerView-master\CardView-RecyclerView-Code\app\build\intermediates\pre-dexed\debug\classes_e3a339931be35407f298f0c20d78ef262e80f2d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRABHAKAR\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="C:\Users\PRABHAKAR\Desktop\Android-CardView-RecyclerView-master\Android-CardView-RecyclerView-master\CardView-RecyclerView-Code\app\build\intermediates\pre-dexed\debug\okhttp-3.3.0_91b6143b698c8a70aeb1cd7e9e6d2996b81a1f7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRABHAKAR\.android\build-cache\c05bf2c64360a20f920da5a020ab5d4f57d95e63\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\PRABHAKAR\Desktop\Android-CardView-RecyclerView-master\Android-CardView-RecyclerView-master\CardView-RecyclerView-Code\app\build\intermediates\pre-dexed\debug\classes_7e0eb08dbcaa3f3ec024f650ceb1d628f2424e46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRABHAKAR\.android\build-cache\c05bf2c64360a20f920da5a020ab5d4f57d95e63\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\PRABHAKAR\Desktop\Android-CardView-RecyclerView-master\Android-CardView-RecyclerView-master\CardView-RecyclerView-Code\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_14a5adaf999beeb1c169119b1292037e3c38c00b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRABHAKAR\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.2\f8d87f15b94b8d74e7ccf61d7eedb558811cdb30\converter-gson-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="C:\Users\PRABHAKAR\Desktop\Android-CardView-RecyclerView-master\Android-CardView-RecyclerView-master\CardView-RecyclerView-Code\app\build\intermediates\pre-dexed\debug\converter-gson-2.0.2_48c42ab7cd6c490613ee3eb4497b7ded8bfe0f32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRABHAKAR\.android\build-cache\ad6545f7e0c74de002726cf42261cb8ff4d8a7c3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\PRABHAKAR\Desktop\Android-CardView-RecyclerView-master\Android-CardView-RecyclerView-master\CardView-RecyclerView-Code\app\build\intermediates\pre-dexed\debug\classes_8a1d91d75c46df1d8fd9626a82de08d36f934fc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRABHAKAR\.android\build-cache\ad6545f7e0c74de002726cf42261cb8ff4d8a7c3\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\PRABHAKAR\Desktop\Android-CardView-RecyclerView-master\Android-CardView-RecyclerView-master\CardView-RecyclerView-Code\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_c0cbb1ef56eba4469b8097225c21e79ce34177e7.jar" />
+    </item>
+
+</items>
